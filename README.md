@@ -36,4 +36,4 @@
 ## 📬 Contact & Collaboration
 
 > [!TIP]
-> Open to high-impact Cloud, DevOps, and Infrastructure engineering opportunities where automation, security, and scalability are critical business drivers. Let's build resilient systems together.
+> Reach out if you want to talk about cloud infrastructure, DevOps, or system automation.
