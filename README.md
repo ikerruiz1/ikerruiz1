@@ -20,7 +20,7 @@
 
 > [!IMPORTANT]
 > **[Automated Backup System](https://github.com/ikerruiz1/automated-backup-system)**
-> Enterprise-grade, centralized, and immutable disaster recovery infrastructure engineered from the ground up to guarantee strict RTO/RPO compliance and absolute ransomware resilience.
+> Centralized, and immutable disaster recovery infrastructure engineered from the ground up to guarantee strict RTO/RPO compliance and absolute ransomware resilience.
 
 ### Architectural Highlights & Engineering Depth
 
