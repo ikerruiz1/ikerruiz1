@@ -7,12 +7,13 @@
 
 ## 🛠️ Tech Stack & Skills
 
-* **Cloud Providers:** AWS (Amazon Security, IAM, VPC, EC2, RDS, S3, KMS, EventBridge, SNS, AWS Backup, AWS Config)
-* **Infrastructure as Code (IaC):** Terraform, TFLint, Checkov, AWS CloudFormation
-* **CI/CD & Automation:** GitHub Actions (OIDC token assumption, zero static credentials), Bash Scripting, Jenkins
-* **Containers & Orchestration:** Docker, Kubernetes (EKS), Amazon ECS, AWS Fargate
-* **Backend & Serverless:** Python, AWS Lambda, API Gateway, DynamoDB, Amazon Cognito
-* **Monitoring & FinOps:** AWS Cost Management, Amazon CloudWatch, Google Gemini AI SDK
+* **AI & Machine Learning:** Amazon Bedrock (Converse API, Claude Haiku 4.5, Guardrails), in-context grounding, structured outputs with Pydantic v2, human-in-the-loop review, scikit-learn
+* **Cloud Providers:** AWS (IAM, VPC, ECS Fargate, ALB, RDS PostgreSQL, S3, KMS, Lambda, Secrets Manager, Cognito, SES, SNS, SQS, EventBridge, CloudWatch, PrivateLink)
+* **Infrastructure as Code (IaC):** Terraform (reusable module architecture), Conftest (OPA/Rego policy-as-code), KICS, Checkov, TFLint
+* **CI/CD & Automation:** AWS CodePipeline, CodeBuild and CodeDeploy, GitLab CI, GitHub Actions (OIDC, zero static credentials), Bash
+* **Containers & Orchestration:** Docker, Amazon ECS Fargate (multi-container sidecars), Kubernetes (EKS, HPA, NetworkPolicy), ArgoCD, Helm
+* **Backend, Frontend & Languages:** Python (FastAPI, SQLAlchemy 2.0 async), TypeScript (React 19, strict mode), Golang, SQL
+* **Observability & FinOps:** AWS X-Ray, Amazon CloudWatch (metrics, logs, alarms, Embedded Metric Format), Prometheus, Grafana, AlertManager, Fluent Bit, AWS Cost Management, k6
 
 ---
 
