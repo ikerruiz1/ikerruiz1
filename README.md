@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Iker Ruiz
 
 > [!NOTE]
-> Cloud & DevOps Engineer specialized in designing secure, immutable, and scalable multi-account cloud architectures on AWS using advanced Infrastructure as Code (IaC) and zero-trust CI/CD pipelines.
+> AI Engineer focused on LLM applications in production: triage and grounding pipelines on Amazon Bedrock, human-in-the-loop review, and zero-trust AWS infrastructure and delivery pipelines underneath, with latency, cost and adoption tracked on every request.
 
 ---
 
